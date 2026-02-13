@@ -391,9 +391,10 @@ body {
 }
 
 .why-card .icon {
-    font-size: 3rem;
     margin-bottom: 1.5rem;
-    display: block;
+    display: flex;
+    justify-content: center;
+    line-height: 0;
 }
 
 .why-card h3 {
@@ -588,9 +589,10 @@ body {
 }
 
 .tech-item .tech-icon {
-    font-size: 2rem;
     margin-bottom: 0.75rem;
-    display: block;
+    display: flex;
+    justify-content: center;
+    line-height: 0;
 }
 
 .tech-item h4 {
